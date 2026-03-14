@@ -1,0 +1,5 @@
+{
+  "name": "Ng gamings",
+  "description": "A random number flashing game with tickets and GPay simulation. Match numbers on your tickets as they are drawn!",
+  "requestFramePermissions": []
+}
